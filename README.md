@@ -28,4 +28,5 @@ ws://192.168.1.210:8001/api/v2/channels/samsung.remote.control?name=cmNjbGk=
 
 https://github.com/razzo04/samsungtv-api
 
-
+Keys
+https://github.com/robertoostenveld/samsung
